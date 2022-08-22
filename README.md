@@ -1,11 +1,8 @@
 ## Funcionalidades
 
-- Layout responsivo
-- API ViaCep
-
-In the project directory, you can run:
-
-### `npm start`
+- API ViaCEP
+- Tela responsiva a diferentes tamanhos;
+- Funcionalidade 
 
 ## Stack utilizada
 
@@ -13,8 +10,29 @@ In the project directory, you can run:
 
 **Back-end:** Node, Axios
 
-https://prnt.sc/6DO14is1DbGr
-</br>
-https://prnt.sc/sDwbzSbSYmyE
-</br>
-https://prnt.sc/ewcz_QCxRn1s
+## Rodando localmente
+
+Clone o projeto
+
+```bash
+  git clone https://link-para-o-projeto
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd my-project
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Inicie o servidor
+
+```bash
+  npm run start
+```
+
